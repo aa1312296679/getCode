@@ -59,4 +59,4 @@ Page({
       codeTimer = null;
     }
   }
-})
+});
