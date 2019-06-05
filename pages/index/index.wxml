@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <!--倒计时按钮-->
+  <button disabled='{{disabled}}' bindtap="goGetCode">{{code}}</button>
+</view>
